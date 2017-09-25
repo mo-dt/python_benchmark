@@ -1,0 +1,14 @@
+
+**.swp
+target/
+.idea/
+.idea_modules/
+.DS_Store
+.vagrant
+*.iml
+*.ipynb
+scratch/
+**/*ivy.xml
+test-output/
+out/
+
